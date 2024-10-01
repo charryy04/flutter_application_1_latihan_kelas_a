@@ -3,5 +3,5 @@ void main() {
   number += 99;
   number -= 1;
   number = 2;
-  print('Hello, $number!');
+  print('Hello, $number');
 }
