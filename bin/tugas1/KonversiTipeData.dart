@@ -11,7 +11,7 @@
 //   var stringdariDouble = masukanDouble.toString();
 // }
 
-// Ini adalah contoh KOnversi Tipe Data Boolean ke String
+// Ini adalah contoh Konversi Tipe Data Boolean ke String
 void main() {
   var masukkanstring = 'true';
   var masukanBoolean = masukkanstring == 'true';
