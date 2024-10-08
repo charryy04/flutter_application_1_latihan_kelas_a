@@ -1,5 +1,5 @@
 //Tipe Data Dynamic
-void main(){
+void main() {
   dynamic variable = 100;
   print(variable);
 
