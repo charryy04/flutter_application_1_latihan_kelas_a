@@ -1,5 +1,5 @@
 // Deklarasi Variabel Langsung
-void main(){
+void main() {
   String nama = "CHARY AMALIA KASIH";
 
   print(nama);

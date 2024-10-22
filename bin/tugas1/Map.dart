@@ -22,16 +22,12 @@
 //   print(namaKu);
 
 //   namaKu.remove('akhir');
-//   print(namaKu);  
+//   print(namaKu);
 // }
 
 // Ini mendeklarasikan Map secara langsung
-void main(){
-  var nama = {
-    'awal':'Chary',
-    'tengah':'Amalia',
-    'akhir':'Kasih'
-  };
+void main() {
+  var nama = {'awal': 'Chary', 'tengah': 'Amalia', 'akhir': 'Kasih'};
 
   print(nama['awal']);
 }
