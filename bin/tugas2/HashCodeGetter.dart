@@ -1,4 +1,4 @@
-import '../data/categoryequalsoperator.dart';
+import '../data/categoryhashcodegetter.dart';
 
 void main() {
   var category1 = Category("1", "Laptop");
@@ -6,4 +6,8 @@ void main() {
 
   print(category1 == category1);
   print(category1 == category2);
+
+  print(category1.hashCode);
+  print(category2.hashCode);
+
 }
